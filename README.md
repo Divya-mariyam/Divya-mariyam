@@ -1,6 +1,6 @@
 
 
-### Hola, I'm Divya Mariyam Eldo! 👋
+<h1 align="center"> Hola 👋, I'm Divya Mariyam Eldo!</h1>
 
 
 <!--
