@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Real World Weather App.
+- 🔭 I’m currently working on Real World Weather App project.
 - 🌱 I’m currently learning MERN.
 - 😄 Pronouns: She/Her
 
