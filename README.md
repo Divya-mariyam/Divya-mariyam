@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Divya-mariyam&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-mariyam&label=Profile%20views&color=0e75b6&style=flat" alt="divya-mariyam" /> </p>
 
 <h3 align="left">Connect with me:</h3>
