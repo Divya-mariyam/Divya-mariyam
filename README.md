@@ -13,16 +13,19 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Real World Weather App.
 - 🌱 I’m currently learning MERN.
 - 😄 Pronouns: She/Her
-
+<!-- GITHUB STATS AND STREAKS -->
 ## 📊 
 ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divya-mariyam&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divya-mariyam&theme=highcontrast)](https://git.io/streak-stats)
+
+
 <!-- <details>
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divya-mariyam&theme=highcontrast)](https://git.io/streak-stats)
  ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divya-mariyam&show_icons=true&theme=dark) -->
 
+<!-- GITHUB TOP LANGUAGES -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya-mariyam&show_icons=true&locale=en&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="divya-mariyam" /></p>
 
    <!--  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Divya Mariyam Eldo's Github Stats" src="https://divya-mariyam-github-readme-stats.vercel.app/api?username=divya-mariyam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
