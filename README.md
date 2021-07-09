@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Divya's Top Languages" src="https://divya-mariyam-github-readme-stats.vercel.app/api/top-langs/?username=divya-mariyam&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 -->
- <br/> <br/> <br/> <br/> <br/> <br/>  <br/>  <br/> <br/> <br/> <br/> <br/> <br/>  <br/>
+ <br/> <br/> <br/> <br/> <br/> <br/>  <br/>  <br/> <br/> <br/> <br/> 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <!--  </details>
 -->
