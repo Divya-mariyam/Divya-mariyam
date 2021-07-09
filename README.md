@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN.
 - 😄 Pronouns: She/Her
 
-## 📊 Github stats
+## 📊 
 ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divya-mariyam&show_icons=true&theme=dark)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya-mariyam&show_icons=true&locale=en&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="divya-mariyam" /></p>
