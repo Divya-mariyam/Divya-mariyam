@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 
  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divya-mariyam)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divya-mariyam&theme=highcontrast)](https://git.io/streak-stats)
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-mariyam&label=Profile%20views&color=0e75b6&style=flat"/> </p>
