@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 ##
 <!-- ACTIVITY GRAPH -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=divya-mariyam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img  alt=" Activity Graph"src="https://activity-graph.herokuapp.com/graph?username=divya-mariyam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!-- PROFILE VIEWS -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-mariyam&label=Profile%20views&color=0e75b6&style=flat"/> </p>
