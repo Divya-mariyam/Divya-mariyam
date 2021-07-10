@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ##
 <!-- GITHUB TOP LANGUAGES -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya-mariyam&show_icons=true&locale=en&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="divya-mariyam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divya-mariyam&show_icons=true&locale=en&layout=compact&hide_border=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="divya-mariyam" /></p>
 
    <!--  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Divya Mariyam Eldo's Github Stats" src="https://divya-mariyam-github-readme-stats.vercel.app/api?username=divya-mariyam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Divya's Top Languages" src="https://divya-mariyam-github-readme-stats.vercel.app/api/top-langs/?username=divya-mariyam&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 -->
 <!-- GITHUB TROPIES -->
 ##
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divya-mariyam&theme=alduin" alt="divya-mariyam" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divya-mariyam&hide_border=true&theme=alduin" alt="divya-mariyam" /></a> </p>
 
 
 
