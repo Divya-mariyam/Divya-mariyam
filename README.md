@@ -178,9 +178,9 @@ Here are some ideas to get you started:
   
 <!-- PROFILE VIEWS -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-mariyam&label=Profile%20views&color=0e75b6&style=flat"/> </p>
-
+<!--
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
-  
+ --> 
 <!-- CONNECT WITH ME -->
 ##
 <p align="center">
