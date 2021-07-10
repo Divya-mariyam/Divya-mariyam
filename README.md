@@ -183,6 +183,13 @@ Here are some ideas to get you started:
 <!-- ACTIVITY GRAPH -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img  alt="divya-mariyam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=divya-mariyam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+##
+<!-- THANKS FOR VISITING -->
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+  
 <!-- PROFILE VIEWS -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-mariyam&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
