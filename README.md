@@ -182,7 +182,7 @@ Here are some ideas to get you started:
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
  --> 
 <!-- CONNECT WITH ME -->
-##
+
 <p align="center">
 <a href="https://linkedin.com/in/divyamariyameldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-mariyam-eldo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/divyameldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyameldo" height="30" width="40" /></a>
