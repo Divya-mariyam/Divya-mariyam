@@ -164,10 +164,9 @@ Here are some ideas to get you started:
 
 -->
 
-
- 
-
-
+##
+<!-- ACTIVITY GRAPH -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img  alt="divya-mariyam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=divya-mariyam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!-- CONNECT WITH ME -->
 ## 🙋Connect with me!
@@ -179,9 +178,6 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/eldodivya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eldodivya" height="30" width="40" /></a>
 </p>
 
-##
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img  alt="divya-mariyam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=divya-mariyam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ##
 <!-- THANKS FOR VISITING -->
