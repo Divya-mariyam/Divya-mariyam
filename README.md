@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 ## <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OS</p>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-3DDC84?style=for-the-badge&logo=windows&logoColor=white"/><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-557C94?style=for-the-badge&logo=ubuntu&logoColor=white"/><img alt="Android" src="https://img.shields.io/badge/Android-E95420?style=for-the-badge&logo=android&logoColor=white"/>
 -->
+
+# Check Out!
+<!-- PROJECTS-->
+https://covid-19-prevention-carousel.vercel.app/
 <!-- GITHUB TROPIES -->
 ##
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divya-mariyam&hide_border=true&theme=alduin" alt="divya-mariyam" /></a> </p>
