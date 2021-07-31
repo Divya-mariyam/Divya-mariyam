@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- GITHUB STATS AND STREAKS -->
 ## 📊 
 ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divya-mariyam&show_icons=true&hide_border=true&theme=highcontrast)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divya-mariyam&hide_border=true&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divya-mariyam&hide_border=true&theme=highcontrast)
 
 
 <!-- <details>
