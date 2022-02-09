@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Real World Weather App.
 - 🌱 I’m currently learning ML.
 - 😄 Pronouns : She/Her
-- 😝 Fun Fact : I have Computer Science background but most of the credit goes to Google.
+- 😝 Fun Fact : I have a software engineering foundation however the vast majority of the credit goes to google.
 <!-- GITHUB STATS AND STREAKS -->
 ## 📊 
 ![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divya-mariyam&show_icons=true&hide_border=true&theme=highcontrast)
